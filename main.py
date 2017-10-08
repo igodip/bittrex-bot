@@ -6,13 +6,16 @@ from datetime import datetime
 import requests.packages.urllib3
 requests.packages.urllib3.disable_warnings()
 
+import sqlite3
+conn = sqlite3.connect('bitcoin.db')
+
 key = "230cd2aaff354c43a3219a978ac2aebd"
 secret = "fe11c3a0a7d14020bb78554ceb67de76"
 
 bittrex = Bittrex(key,secret)
 
-threshold_activ = 0.6 # Number between -1 and 1
-threshold_off   = -0.2 # Number between -1 and 1
+threshold_activ = 0.4 # Number between -1 and 1
+threshold_off   = -0.3 # Number between -1 and 1
 
 btc_vault = 0.0 # Btc vault
 usdt_vault = 10000 # Usd tether vault
@@ -53,24 +56,16 @@ while True:
 	ratio = (buys_size - sells_size)/(buys_size+sells_size)
 
 	# Check buy 
-	if buy_pos == 0:
-		if ratio > threshold_activ:
-			btc_vault += usdt_vault/latest_price_ask
-			usdt_vault = 0
-			buy_pos = 1
-	elif buy_pos == 1:
-		if ratio < threshold_off:
-			buy_pos = 0
+	if ratio > threshold_activ:
+		btc_vault += usdt_vault/latest_price_ask
+		usdt_vault = 0
+		buy_pos = 1
 
 	# Check sell
-	if sell_pos == 0:
-		if ratio < -threshold_activ:
-			usdt_vault += btc_vault*latest_price_bid
-			btc_vault = 0
-			sell_pos = 1
-	elif sell_pos == 1:
-		if ratio > -threshold_off:
-			sell_pos = 1
+	if ratio < threshold_off:
+		usdt_vault += btc_vault*latest_price_bid
+		btc_vault = 0
+		sell_pos = 1
 
 
 
