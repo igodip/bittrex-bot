@@ -1,0 +1,1806 @@
+{
+    "message": "", 
+    "result": [
+        {
+            "FillType": "FILL", 
+            "Id": 18715001, 
+            "OrderType": "BUY", 
+            "Price": 4448.0, 
+            "Quantity": 0.00160068, 
+            "TimeStamp": "2017-10-08T08:13:28.023", 
+            "Total": 7.11982464
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714966, 
+            "OrderType": "BUY", 
+            "Price": 4448.0, 
+            "Quantity": 0.10687732, 
+            "TimeStamp": "2017-10-08T08:12:59.677", 
+            "Total": 475.39031936
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714965, 
+            "OrderType": "BUY", 
+            "Price": 4448.0, 
+            "Quantity": 0.11100217, 
+            "TimeStamp": "2017-10-08T08:12:59.677", 
+            "Total": 493.73765216
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714964, 
+            "OrderType": "BUY", 
+            "Price": 4445.0, 
+            "Quantity": 0.01824263, 
+            "TimeStamp": "2017-10-08T08:12:59.677", 
+            "Total": 81.08849035
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714963, 
+            "OrderType": "BUY", 
+            "Price": 4445.0, 
+            "Quantity": 0.0021895, 
+            "TimeStamp": "2017-10-08T08:12:59.677", 
+            "Total": 9.7323275
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714951, 
+            "OrderType": "BUY", 
+            "Price": 4445.0, 
+            "Quantity": 0.00225755, 
+            "TimeStamp": "2017-10-08T08:12:51.473", 
+            "Total": 10.03480975
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714949, 
+            "OrderType": "BUY", 
+            "Price": 4445.0, 
+            "Quantity": 0.0011, 
+            "TimeStamp": "2017-10-08T08:12:51.21", 
+            "Total": 4.8895
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714947, 
+            "OrderType": "BUY", 
+            "Price": 4445.0, 
+            "Quantity": 0.013, 
+            "TimeStamp": "2017-10-08T08:12:51.037", 
+            "Total": 57.785
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714945, 
+            "OrderType": "BUY", 
+            "Price": 4445.0, 
+            "Quantity": 0.04499438, 
+            "TimeStamp": "2017-10-08T08:12:50.833", 
+            "Total": 200.0000191
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714943, 
+            "OrderType": "BUY", 
+            "Price": 4445.0, 
+            "Quantity": 0.02524834, 
+            "TimeStamp": "2017-10-08T08:12:50.74", 
+            "Total": 112.2288713
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714939, 
+            "OrderType": "SELL", 
+            "Price": 4440.0, 
+            "Quantity": 0.3656557, 
+            "TimeStamp": "2017-10-08T08:12:48.613", 
+            "Total": 1623.511308
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714934, 
+            "OrderType": "BUY", 
+            "Price": 4445.0, 
+            "Quantity": 0.16810666, 
+            "TimeStamp": "2017-10-08T08:12:44.287", 
+            "Total": 747.2341037
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714920, 
+            "OrderType": "SELL", 
+            "Price": 4440.0, 
+            "Quantity": 0.04197049, 
+            "TimeStamp": "2017-10-08T08:12:37.787", 
+            "Total": 186.3489756
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714902, 
+            "OrderType": "BUY", 
+            "Price": 4445.0, 
+            "Quantity": 0.06235357, 
+            "TimeStamp": "2017-10-08T08:12:31.753", 
+            "Total": 277.16161865
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714901, 
+            "OrderType": "BUY", 
+            "Price": 4440.0, 
+            "Quantity": 0.13747287, 
+            "TimeStamp": "2017-10-08T08:12:31.753", 
+            "Total": 610.3795428
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714870, 
+            "OrderType": "BUY", 
+            "Price": 4440.0, 
+            "Quantity": 0.31309103, 
+            "TimeStamp": "2017-10-08T08:12:22.567", 
+            "Total": 1390.1241732
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714869, 
+            "OrderType": "BUY", 
+            "Price": 4440.0, 
+            "Quantity": 0.00950766, 
+            "TimeStamp": "2017-10-08T08:12:22.567", 
+            "Total": 42.2140104
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714868, 
+            "OrderType": "BUY", 
+            "Price": 4440.0, 
+            "Quantity": 0.04090991, 
+            "TimeStamp": "2017-10-08T08:12:22.567", 
+            "Total": 181.6400004
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714867, 
+            "OrderType": "BUY", 
+            "Price": 4440.0, 
+            "Quantity": 0.00069768, 
+            "TimeStamp": "2017-10-08T08:12:22.567", 
+            "Total": 3.0976992
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714866, 
+            "OrderType": "BUY", 
+            "Price": 4440.0, 
+            "Quantity": 0.26179372, 
+            "TimeStamp": "2017-10-08T08:12:22.567", 
+            "Total": 1162.3641168
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714853, 
+            "OrderType": "BUY", 
+            "Price": 4440.0, 
+            "Quantity": 0.00052324, 
+            "TimeStamp": "2017-10-08T08:12:15.07", 
+            "Total": 2.3231856
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714847, 
+            "OrderType": "BUY", 
+            "Price": 4440.0, 
+            "Quantity": 0.10077619, 
+            "TimeStamp": "2017-10-08T08:12:12.787", 
+            "Total": 447.4462836
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714819, 
+            "OrderType": "BUY", 
+            "Price": 4440.0, 
+            "Quantity": 1.674, 
+            "TimeStamp": "2017-10-08T08:11:56.457", 
+            "Total": 7432.56
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714817, 
+            "OrderType": "BUY", 
+            "Price": 4440.0, 
+            "Quantity": 1.632, 
+            "TimeStamp": "2017-10-08T08:11:56.427", 
+            "Total": 7246.08
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714814, 
+            "OrderType": "BUY", 
+            "Price": 4440.0, 
+            "Quantity": 0.09927634, 
+            "TimeStamp": "2017-10-08T08:11:53.033", 
+            "Total": 440.7869496
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714811, 
+            "OrderType": "BUY", 
+            "Price": 4440.0, 
+            "Quantity": 0.09940248, 
+            "TimeStamp": "2017-10-08T08:11:51.533", 
+            "Total": 441.3470112
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714800, 
+            "OrderType": "BUY", 
+            "Price": 4440.0, 
+            "Quantity": 0.686, 
+            "TimeStamp": "2017-10-08T08:11:46.283", 
+            "Total": 3045.84
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714796, 
+            "OrderType": "BUY", 
+            "Price": 4440.0, 
+            "Quantity": 0.00253895, 
+            "TimeStamp": "2017-10-08T08:11:43.927", 
+            "Total": 11.272938
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714791, 
+            "OrderType": "BUY", 
+            "Price": 4440.0, 
+            "Quantity": 0.10268349, 
+            "TimeStamp": "2017-10-08T08:11:40.88", 
+            "Total": 455.9146956
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714777, 
+            "OrderType": "BUY", 
+            "Price": 4440.0, 
+            "Quantity": 0.18203415, 
+            "TimeStamp": "2017-10-08T08:11:30.3", 
+            "Total": 808.231626
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714772, 
+            "OrderType": "BUY", 
+            "Price": 4440.0, 
+            "Quantity": 0.03103484, 
+            "TimeStamp": "2017-10-08T08:11:26.643", 
+            "Total": 137.7946896
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714762, 
+            "OrderType": "BUY", 
+            "Price": 4440.0, 
+            "Quantity": 0.16, 
+            "TimeStamp": "2017-10-08T08:11:21.347", 
+            "Total": 710.4
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714757, 
+            "OrderType": "BUY", 
+            "Price": 4440.0, 
+            "Quantity": 1.004888, 
+            "TimeStamp": "2017-10-08T08:11:19.16", 
+            "Total": 4461.70272
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714745, 
+            "OrderType": "BUY", 
+            "Price": 4440.0, 
+            "Quantity": 0.00129385, 
+            "TimeStamp": "2017-10-08T08:11:04.487", 
+            "Total": 5.744694
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714741, 
+            "OrderType": "BUY", 
+            "Price": 4440.0, 
+            "Quantity": 0.05338747, 
+            "TimeStamp": "2017-10-08T08:11:02.66", 
+            "Total": 237.0403668
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714739, 
+            "OrderType": "BUY", 
+            "Price": 4440.0, 
+            "Quantity": 0.00663926, 
+            "TimeStamp": "2017-10-08T08:11:02.08", 
+            "Total": 29.4783144
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714737, 
+            "OrderType": "BUY", 
+            "Price": 4440.0, 
+            "Quantity": 0.00529596, 
+            "TimeStamp": "2017-10-08T08:11:00.267", 
+            "Total": 23.5140624
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714727, 
+            "OrderType": "BUY", 
+            "Price": 4440.0, 
+            "Quantity": 0.254128, 
+            "TimeStamp": "2017-10-08T08:10:50.157", 
+            "Total": 1128.32832
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714723, 
+            "OrderType": "BUY", 
+            "Price": 4440.0, 
+            "Quantity": 0.68969716, 
+            "TimeStamp": "2017-10-08T08:10:48.283", 
+            "Total": 3062.2553904
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714716, 
+            "OrderType": "BUY", 
+            "Price": 4440.0, 
+            "Quantity": 0.0005005, 
+            "TimeStamp": "2017-10-08T08:10:42.347", 
+            "Total": 2.22222
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714710, 
+            "OrderType": "BUY", 
+            "Price": 4439.1, 
+            "Quantity": 0.00112136, 
+            "TimeStamp": "2017-10-08T08:10:38.89", 
+            "Total": 4.97782917
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714689, 
+            "OrderType": "BUY", 
+            "Price": 4439.1, 
+            "Quantity": 1.38847549, 
+            "TimeStamp": "2017-10-08T08:10:30.203", 
+            "Total": 6163.58154765
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714665, 
+            "OrderType": "BUY", 
+            "Price": 4439.1, 
+            "Quantity": 1.593, 
+            "TimeStamp": "2017-10-08T08:10:19.657", 
+            "Total": 7071.4863
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714660, 
+            "OrderType": "BUY", 
+            "Price": 4439.1, 
+            "Quantity": 6.7e-07, 
+            "TimeStamp": "2017-10-08T08:10:18.657", 
+            "Total": 0.00297419
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714658, 
+            "OrderType": "BUY", 
+            "Price": 4439.1, 
+            "Quantity": 1.609, 
+            "TimeStamp": "2017-10-08T08:10:18.627", 
+            "Total": 7142.5119
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714656, 
+            "OrderType": "BUY", 
+            "Price": 4439.1, 
+            "Quantity": 0.00465136, 
+            "TimeStamp": "2017-10-08T08:10:16.39", 
+            "Total": 20.64785217
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714653, 
+            "OrderType": "SELL", 
+            "Price": 4436.00000001, 
+            "Quantity": 0.06737473, 
+            "TimeStamp": "2017-10-08T08:10:14.313", 
+            "Total": 298.87430228
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714652, 
+            "OrderType": "SELL", 
+            "Price": 4436.51000001, 
+            "Quantity": 0.00225883, 
+            "TimeStamp": "2017-10-08T08:10:14.313", 
+            "Total": 10.02132188
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714651, 
+            "OrderType": "SELL", 
+            "Price": 4436.51000001, 
+            "Quantity": 0.00224941, 
+            "TimeStamp": "2017-10-08T08:10:14.313", 
+            "Total": 9.97952995
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714650, 
+            "OrderType": "SELL", 
+            "Price": 4437.1, 
+            "Quantity": 0.04298683, 
+            "TimeStamp": "2017-10-08T08:10:14.313", 
+            "Total": 190.73686339
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714648, 
+            "OrderType": "BUY", 
+            "Price": 4439.1, 
+            "Quantity": 0.00481095, 
+            "TimeStamp": "2017-10-08T08:10:14.047", 
+            "Total": 21.35628814
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714642, 
+            "OrderType": "BUY", 
+            "Price": 4439.1, 
+            "Quantity": 0.01216346, 
+            "TimeStamp": "2017-10-08T08:10:12.69", 
+            "Total": 53.99481528
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714640, 
+            "OrderType": "BUY", 
+            "Price": 4439.1, 
+            "Quantity": 0.02247077, 
+            "TimeStamp": "2017-10-08T08:10:12.673", 
+            "Total": 99.7499951
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714638, 
+            "OrderType": "BUY", 
+            "Price": 4439.1, 
+            "Quantity": 0.04114925, 
+            "TimeStamp": "2017-10-08T08:10:12.28", 
+            "Total": 182.66563567
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714623, 
+            "OrderType": "BUY", 
+            "Price": 4439.1, 
+            "Quantity": 0.0005005, 
+            "TimeStamp": "2017-10-08T08:10:02.407", 
+            "Total": 2.22176955
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714620, 
+            "OrderType": "BUY", 
+            "Price": 4439.1, 
+            "Quantity": 0.00020647, 
+            "TimeStamp": "2017-10-08T08:10:01.923", 
+            "Total": 0.91654097
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714609, 
+            "OrderType": "BUY", 
+            "Price": 4437.53112338, 
+            "Quantity": 0.04941751, 
+            "TimeStamp": "2017-10-08T08:09:55.67", 
+            "Total": 219.29173866
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714608, 
+            "OrderType": "BUY", 
+            "Price": 4437.53112338, 
+            "Quantity": 0.00110369, 
+            "TimeStamp": "2017-10-08T08:09:55.67", 
+            "Total": 4.89765872
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714607, 
+            "OrderType": "BUY", 
+            "Price": 4437.53112338, 
+            "Quantity": 0.00183696, 
+            "TimeStamp": "2017-10-08T08:09:55.67", 
+            "Total": 8.15156717
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714606, 
+            "OrderType": "BUY", 
+            "Price": 4437.53112338, 
+            "Quantity": 0.23556353, 
+            "TimeStamp": "2017-10-08T08:09:55.67", 
+            "Total": 1045.3204959
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714603, 
+            "OrderType": "BUY", 
+            "Price": 4437.53112338, 
+            "Quantity": 0.00112053, 
+            "TimeStamp": "2017-10-08T08:09:54.89", 
+            "Total": 4.97238674
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714594, 
+            "OrderType": "BUY", 
+            "Price": 4437.53112338, 
+            "Quantity": 0.01149999, 
+            "TimeStamp": "2017-10-08T08:09:48.75", 
+            "Total": 51.03156354
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714590, 
+            "OrderType": "BUY", 
+            "Price": 4437.53112338, 
+            "Quantity": 0.0005005, 
+            "TimeStamp": "2017-10-08T08:09:47.017", 
+            "Total": 2.22098432
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714578, 
+            "OrderType": "BUY", 
+            "Price": 4437.53112338, 
+            "Quantity": 0.00911349, 
+            "TimeStamp": "2017-10-08T08:09:36.92", 
+            "Total": 40.44139551
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714576, 
+            "OrderType": "BUY", 
+            "Price": 4437.53112338, 
+            "Quantity": 0.2373, 
+            "TimeStamp": "2017-10-08T08:09:34.953", 
+            "Total": 1053.02613557
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714575, 
+            "OrderType": "BUY", 
+            "Price": 4437.1, 
+            "Quantity": 0.0527, 
+            "TimeStamp": "2017-10-08T08:09:34.953", 
+            "Total": 233.83517
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714572, 
+            "OrderType": "BUY", 
+            "Price": 4437.1, 
+            "Quantity": 0.0011, 
+            "TimeStamp": "2017-10-08T08:09:33.11", 
+            "Total": 4.88081
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714558, 
+            "OrderType": "SELL", 
+            "Price": 4437.1, 
+            "Quantity": 1.0, 
+            "TimeStamp": "2017-10-08T08:09:25.013", 
+            "Total": 4437.1
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714554, 
+            "OrderType": "BUY", 
+            "Price": 4437.53112338, 
+            "Quantity": 0.00642915, 
+            "TimeStamp": "2017-10-08T08:09:20.967", 
+            "Total": 28.52955322
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714552, 
+            "OrderType": "BUY", 
+            "Price": 4437.53112338, 
+            "Quantity": 0.03200937, 
+            "TimeStamp": "2017-10-08T08:09:20.577", 
+            "Total": 142.04257561
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714547, 
+            "OrderType": "BUY", 
+            "Price": 4437.53112338, 
+            "Quantity": 0.54, 
+            "TimeStamp": "2017-10-08T08:09:18.263", 
+            "Total": 2396.26680662
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714545, 
+            "OrderType": "BUY", 
+            "Price": 4437.53112338, 
+            "Quantity": 0.0007981, 
+            "TimeStamp": "2017-10-08T08:09:17.53", 
+            "Total": 3.54159358
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714542, 
+            "OrderType": "BUY", 
+            "Price": 4437.53112338, 
+            "Quantity": 0.00437726, 
+            "TimeStamp": "2017-10-08T08:09:16.95", 
+            "Total": 19.42422748
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714539, 
+            "OrderType": "SELL", 
+            "Price": 4437.53112338, 
+            "Quantity": 0.00068445, 
+            "TimeStamp": "2017-10-08T08:09:15.967", 
+            "Total": 3.03726817
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714538, 
+            "OrderType": "SELL", 
+            "Price": 4439.0, 
+            "Quantity": 0.09003808, 
+            "TimeStamp": "2017-10-08T08:09:15.967", 
+            "Total": 399.67903712
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714516, 
+            "OrderType": "BUY", 
+            "Price": 4440.0, 
+            "Quantity": 0.11221174, 
+            "TimeStamp": "2017-10-08T08:09:03.2", 
+            "Total": 498.2201256
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714507, 
+            "OrderType": "BUY", 
+            "Price": 4440.0, 
+            "Quantity": 0.97591425, 
+            "TimeStamp": "2017-10-08T08:08:56.95", 
+            "Total": 4333.05927
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714489, 
+            "OrderType": "BUY", 
+            "Price": 4440.0, 
+            "Quantity": 0.07996, 
+            "TimeStamp": "2017-10-08T08:08:44.92", 
+            "Total": 355.0224
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714472, 
+            "OrderType": "SELL", 
+            "Price": 4440.0, 
+            "Quantity": 10.0, 
+            "TimeStamp": "2017-10-08T08:08:39.827", 
+            "Total": 44400.0
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714471, 
+            "OrderType": "SELL", 
+            "Price": 4440.0, 
+            "Quantity": 0.5, 
+            "TimeStamp": "2017-10-08T08:08:39.827", 
+            "Total": 2220.0
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714470, 
+            "OrderType": "SELL", 
+            "Price": 4440.000001, 
+            "Quantity": 0.05355996, 
+            "TimeStamp": "2017-10-08T08:08:39.827", 
+            "Total": 237.80622245
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714469, 
+            "OrderType": "SELL", 
+            "Price": 4440.40700001, 
+            "Quantity": 0.025, 
+            "TimeStamp": "2017-10-08T08:08:39.827", 
+            "Total": 111.010175
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714468, 
+            "OrderType": "SELL", 
+            "Price": 4440.73, 
+            "Quantity": 0.2, 
+            "TimeStamp": "2017-10-08T08:08:39.827", 
+            "Total": 888.146
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714467, 
+            "OrderType": "SELL", 
+            "Price": 4440.74, 
+            "Quantity": 0.00158676, 
+            "TimeStamp": "2017-10-08T08:08:39.827", 
+            "Total": 7.0463886
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714466, 
+            "OrderType": "SELL", 
+            "Price": 4440.74, 
+            "Quantity": 0.0360129, 
+            "TimeStamp": "2017-10-08T08:08:39.827", 
+            "Total": 159.92392554
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714465, 
+            "OrderType": "SELL", 
+            "Price": 4440.79, 
+            "Quantity": 0.48127033, 
+            "TimeStamp": "2017-10-08T08:08:39.827", 
+            "Total": 2137.22046876
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714464, 
+            "OrderType": "SELL", 
+            "Price": 4443.096, 
+            "Quantity": 0.00228983, 
+            "TimeStamp": "2017-10-08T08:08:39.827", 
+            "Total": 10.17393451
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714463, 
+            "OrderType": "SELL", 
+            "Price": 4444.44444444, 
+            "Quantity": 2.04606011, 
+            "TimeStamp": "2017-10-08T08:08:39.827", 
+            "Total": 9093.60048887
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714462, 
+            "OrderType": "SELL", 
+            "Price": 4444.72222222, 
+            "Quantity": 2.41120865, 
+            "TimeStamp": "2017-10-08T08:08:39.827", 
+            "Total": 10717.15266906
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714461, 
+            "OrderType": "SELL", 
+            "Price": 4444.72222222, 
+            "Quantity": 0.03439106, 
+            "TimeStamp": "2017-10-08T08:08:39.827", 
+            "Total": 152.85870862
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714459, 
+            "OrderType": "BUY", 
+            "Price": 4445.0, 
+            "Quantity": 0.3728806, 
+            "TimeStamp": "2017-10-08T08:08:38.793", 
+            "Total": 1657.454267
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714454, 
+            "OrderType": "BUY", 
+            "Price": 4445.0, 
+            "Quantity": 0.00531987, 
+            "TimeStamp": "2017-10-08T08:08:34.827", 
+            "Total": 23.64682215
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714448, 
+            "OrderType": "BUY", 
+            "Price": 4445.0, 
+            "Quantity": 0.041, 
+            "TimeStamp": "2017-10-08T08:08:32.077", 
+            "Total": 182.245
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714428, 
+            "OrderType": "SELL", 
+            "Price": 4444.72222222, 
+            "Quantity": 0.01023858, 
+            "TimeStamp": "2017-10-08T08:08:18.903", 
+            "Total": 45.50764404
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714420, 
+            "OrderType": "BUY", 
+            "Price": 4445.0, 
+            "Quantity": 0.0224411, 
+            "TimeStamp": "2017-10-08T08:08:14.42", 
+            "Total": 99.7506895
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714406, 
+            "OrderType": "BUY", 
+            "Price": 4445.0, 
+            "Quantity": 0.13731466, 
+            "TimeStamp": "2017-10-08T08:08:06.12", 
+            "Total": 610.3636637
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714393, 
+            "OrderType": "SELL", 
+            "Price": 4445.0, 
+            "Quantity": 0.1, 
+            "TimeStamp": "2017-10-08T08:08:00.26", 
+            "Total": 444.5
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714392, 
+            "OrderType": "SELL", 
+            "Price": 4445.0, 
+            "Quantity": 0.21500976, 
+            "TimeStamp": "2017-10-08T08:08:00.26", 
+            "Total": 955.7183832
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714391, 
+            "OrderType": "SELL", 
+            "Price": 4447.1, 
+            "Quantity": 0.02147155, 
+            "TimeStamp": "2017-10-08T08:08:00.26", 
+            "Total": 95.48613
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714385, 
+            "OrderType": "BUY", 
+            "Price": 4447.0, 
+            "Quantity": 0.01606506, 
+            "TimeStamp": "2017-10-08T08:07:56.027", 
+            "Total": 71.44132182
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714378, 
+            "OrderType": "SELL", 
+            "Price": 4447.0, 
+            "Quantity": 0.31512, 
+            "TimeStamp": "2017-10-08T08:07:27.497", 
+            "Total": 1401.33864
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714368, 
+            "OrderType": "BUY", 
+            "Price": 4448.0, 
+            "Quantity": 0.01869172, 
+            "TimeStamp": "2017-10-08T08:06:52.48", 
+            "Total": 83.14077056
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714354, 
+            "OrderType": "BUY", 
+            "Price": 4448.0, 
+            "Quantity": 0.09155004, 
+            "TimeStamp": "2017-10-08T08:06:21.133", 
+            "Total": 407.21457792
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714348, 
+            "OrderType": "SELL", 
+            "Price": 4447.0, 
+            "Quantity": 0.1552001, 
+            "TimeStamp": "2017-10-08T08:06:15.743", 
+            "Total": 690.1748447
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714341, 
+            "OrderType": "BUY", 
+            "Price": 4448.0, 
+            "Quantity": 2.68e-06, 
+            "TimeStamp": "2017-10-08T08:06:06.307", 
+            "Total": 0.01192064
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714339, 
+            "OrderType": "BUY", 
+            "Price": 4448.0, 
+            "Quantity": 0.00345932, 
+            "TimeStamp": "2017-10-08T08:06:05.6", 
+            "Total": 15.38705536
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714333, 
+            "OrderType": "BUY", 
+            "Price": 4448.0, 
+            "Quantity": 0.42925629, 
+            "TimeStamp": "2017-10-08T08:05:52.82", 
+            "Total": 1909.33197792
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714331, 
+            "OrderType": "SELL", 
+            "Price": 4447.0, 
+            "Quantity": 0.1, 
+            "TimeStamp": "2017-10-08T08:05:50.4", 
+            "Total": 444.7
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714327, 
+            "OrderType": "BUY", 
+            "Price": 4448.0, 
+            "Quantity": 0.91117763, 
+            "TimeStamp": "2017-10-08T08:05:43.46", 
+            "Total": 4052.91809824
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714325, 
+            "OrderType": "BUY", 
+            "Price": 4448.0, 
+            "Quantity": 0.00343472, 
+            "TimeStamp": "2017-10-08T08:05:42.757", 
+            "Total": 15.27763456
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714322, 
+            "OrderType": "BUY", 
+            "Price": 4448.0, 
+            "Quantity": 0.22872522, 
+            "TimeStamp": "2017-10-08T08:05:41.46", 
+            "Total": 1017.36977856
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714320, 
+            "OrderType": "SELL", 
+            "Price": 4447.0, 
+            "Quantity": 1.27, 
+            "TimeStamp": "2017-10-08T08:05:40.43", 
+            "Total": 5647.69
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714315, 
+            "OrderType": "BUY", 
+            "Price": 4448.0, 
+            "Quantity": 2.54, 
+            "TimeStamp": "2017-10-08T08:05:32.24", 
+            "Total": 11297.92
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714310, 
+            "OrderType": "SELL", 
+            "Price": 4447.0, 
+            "Quantity": 0.1596799, 
+            "TimeStamp": "2017-10-08T08:05:24.367", 
+            "Total": 710.0965153
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714309, 
+            "OrderType": "SELL", 
+            "Price": 4447.475, 
+            "Quantity": 3.441e-05, 
+            "TimeStamp": "2017-10-08T08:05:24.367", 
+            "Total": 0.15303761
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714307, 
+            "OrderType": "BUY", 
+            "Price": 4448.0, 
+            "Quantity": 5.099e-05, 
+            "TimeStamp": "2017-10-08T08:05:13.537", 
+            "Total": 0.22680352
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714290, 
+            "OrderType": "BUY", 
+            "Price": 4448.9, 
+            "Quantity": 0.00406304, 
+            "TimeStamp": "2017-10-08T08:04:16.41", 
+            "Total": 18.07605865
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714274, 
+            "OrderType": "SELL", 
+            "Price": 4445.0, 
+            "Quantity": 0.00566214, 
+            "TimeStamp": "2017-10-08T08:03:19.363", 
+            "Total": 25.1682123
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714273, 
+            "OrderType": "SELL", 
+            "Price": 4446.9, 
+            "Quantity": 6.901e-05, 
+            "TimeStamp": "2017-10-08T08:03:19.363", 
+            "Total": 0.30688056
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714267, 
+            "OrderType": "BUY", 
+            "Price": 4448.9, 
+            "Quantity": 0.00364757, 
+            "TimeStamp": "2017-10-08T08:02:58.517", 
+            "Total": 16.22767417
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714265, 
+            "OrderType": "BUY", 
+            "Price": 4448.9, 
+            "Quantity": 0.0033151, 
+            "TimeStamp": "2017-10-08T08:02:56.33", 
+            "Total": 14.74854839
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714262, 
+            "OrderType": "BUY", 
+            "Price": 4448.9, 
+            "Quantity": 0.00301293, 
+            "TimeStamp": "2017-10-08T08:02:54.503", 
+            "Total": 13.40422427
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714260, 
+            "OrderType": "SELL", 
+            "Price": 4445.0, 
+            "Quantity": 0.00381951, 
+            "TimeStamp": "2017-10-08T08:02:44.423", 
+            "Total": 16.97772195
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714259, 
+            "OrderType": "SELL", 
+            "Price": 4448.175, 
+            "Quantity": 0.00013832, 
+            "TimeStamp": "2017-10-08T08:02:44.423", 
+            "Total": 0.61527156
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714258, 
+            "OrderType": "BUY", 
+            "Price": 4448.9, 
+            "Quantity": 0.00100466, 
+            "TimeStamp": "2017-10-08T08:02:41.767", 
+            "Total": 4.46963187
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714254, 
+            "OrderType": "BUY", 
+            "Price": 4449.9, 
+            "Quantity": 0.078018, 
+            "TimeStamp": "2017-10-08T08:02:18.033", 
+            "Total": 347.1722982
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714253, 
+            "OrderType": "BUY", 
+            "Price": 4448.9, 
+            "Quantity": 0.021982, 
+            "TimeStamp": "2017-10-08T08:02:18.033", 
+            "Total": 97.7957198
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714240, 
+            "OrderType": "BUY", 
+            "Price": 4449.9, 
+            "Quantity": 0.054077, 
+            "TimeStamp": "2017-10-08T08:01:38.983", 
+            "Total": 240.6372423
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714236, 
+            "OrderType": "BUY", 
+            "Price": 4449.9, 
+            "Quantity": 0.0029, 
+            "TimeStamp": "2017-10-08T08:01:24.827", 
+            "Total": 12.90471
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714229, 
+            "OrderType": "BUY", 
+            "Price": 4449.9, 
+            "Quantity": 0.00896649, 
+            "TimeStamp": "2017-10-08T08:01:21.03", 
+            "Total": 39.89998385
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714214, 
+            "OrderType": "SELL", 
+            "Price": 4445.0, 
+            "Quantity": 2.255e-05, 
+            "TimeStamp": "2017-10-08T08:00:59.437", 
+            "Total": 0.10023475
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714206, 
+            "OrderType": "BUY", 
+            "Price": 4449.9, 
+            "Quantity": 0.03863546, 
+            "TimeStamp": "2017-10-08T08:00:41.42", 
+            "Total": 171.92393345
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714203, 
+            "OrderType": "BUY", 
+            "Price": 4449.9, 
+            "Quantity": 0.03202247, 
+            "TimeStamp": "2017-10-08T08:00:40.293", 
+            "Total": 142.49678925
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714200, 
+            "OrderType": "BUY", 
+            "Price": 4449.9, 
+            "Quantity": 0.05, 
+            "TimeStamp": "2017-10-08T08:00:32.747", 
+            "Total": 222.495
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714197, 
+            "OrderType": "BUY", 
+            "Price": 4449.9, 
+            "Quantity": 0.00354617, 
+            "TimeStamp": "2017-10-08T08:00:25.153", 
+            "Total": 15.78010188
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714195, 
+            "OrderType": "BUY", 
+            "Price": 4449.9, 
+            "Quantity": 0.00334695, 
+            "TimeStamp": "2017-10-08T08:00:20.683", 
+            "Total": 14.8935928
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714190, 
+            "OrderType": "BUY", 
+            "Price": 4449.9, 
+            "Quantity": 0.00303798, 
+            "TimeStamp": "2017-10-08T08:00:18.403", 
+            "Total": 13.5187072
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714186, 
+            "OrderType": "BUY", 
+            "Price": 4449.9, 
+            "Quantity": 0.40755476, 
+            "TimeStamp": "2017-10-08T08:00:15.73", 
+            "Total": 1813.57792652
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714182, 
+            "OrderType": "BUY", 
+            "Price": 4450.0, 
+            "Quantity": 0.00021008, 
+            "TimeStamp": "2017-10-08T08:00:04.043", 
+            "Total": 0.934856
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714180, 
+            "OrderType": "SELL", 
+            "Price": 4444.72222222, 
+            "Quantity": 0.00025505, 
+            "TimeStamp": "2017-10-08T08:00:03.357", 
+            "Total": 1.1336264
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714179, 
+            "OrderType": "SELL", 
+            "Price": 4447.36111111, 
+            "Quantity": 0.00016949, 
+            "TimeStamp": "2017-10-08T08:00:03.357", 
+            "Total": 0.75378323
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714178, 
+            "OrderType": "SELL", 
+            "Price": 4447.36111111, 
+            "Quantity": 0.0001079, 
+            "TimeStamp": "2017-10-08T08:00:02.607", 
+            "Total": 0.47987026
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714176, 
+            "OrderType": "BUY", 
+            "Price": 4450.0, 
+            "Quantity": 0.00015639, 
+            "TimeStamp": "2017-10-08T08:00:01.717", 
+            "Total": 0.6959355
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714174, 
+            "OrderType": "BUY", 
+            "Price": 4450.0, 
+            "Quantity": 0.08247177, 
+            "TimeStamp": "2017-10-08T08:00:01.497", 
+            "Total": 366.9993765
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714173, 
+            "OrderType": "BUY", 
+            "Price": 4450.0, 
+            "Quantity": 0.04871253, 
+            "TimeStamp": "2017-10-08T08:00:01.497", 
+            "Total": 216.7707585
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714172, 
+            "OrderType": "BUY", 
+            "Price": 4450.0, 
+            "Quantity": 0.51406549, 
+            "TimeStamp": "2017-10-08T08:00:01.497", 
+            "Total": 2287.5914305
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714171, 
+            "OrderType": "BUY", 
+            "Price": 4450.0, 
+            "Quantity": 0.35475021, 
+            "TimeStamp": "2017-10-08T08:00:01.497", 
+            "Total": 1578.6384345
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714167, 
+            "OrderType": "BUY", 
+            "Price": 4450.0, 
+            "Quantity": 0.04414479, 
+            "TimeStamp": "2017-10-08T07:59:56.217", 
+            "Total": 196.4443155
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714166, 
+            "OrderType": "BUY", 
+            "Price": 4450.0, 
+            "Quantity": 0.00815947, 
+            "TimeStamp": "2017-10-08T07:59:56.217", 
+            "Total": 36.3096415
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714165, 
+            "OrderType": "BUY", 
+            "Price": 4450.0, 
+            "Quantity": 0.10297312, 
+            "TimeStamp": "2017-10-08T07:59:56.217", 
+            "Total": 458.230384
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714155, 
+            "OrderType": "SELL", 
+            "Price": 4449.0, 
+            "Quantity": 0.0106627, 
+            "TimeStamp": "2017-10-08T07:59:45.573", 
+            "Total": 47.4383523
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714141, 
+            "OrderType": "BUY", 
+            "Price": 4450.0, 
+            "Quantity": 0.07205108, 
+            "TimeStamp": "2017-10-08T07:59:09.307", 
+            "Total": 320.627306
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714140, 
+            "OrderType": "BUY", 
+            "Price": 4450.0, 
+            "Quantity": 0.01434522, 
+            "TimeStamp": "2017-10-08T07:59:09.307", 
+            "Total": 63.836229
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714135, 
+            "OrderType": "BUY", 
+            "Price": 4449.0, 
+            "Quantity": 0.29329596, 
+            "TimeStamp": "2017-10-08T07:59:03.603", 
+            "Total": 1304.87372604
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714134, 
+            "OrderType": "BUY", 
+            "Price": 4449.0, 
+            "Quantity": 0.30616575, 
+            "TimeStamp": "2017-10-08T07:59:03.603", 
+            "Total": 1362.13142175
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714131, 
+            "OrderType": "SELL", 
+            "Price": 4444.44444444, 
+            "Quantity": 0.05760826, 
+            "TimeStamp": "2017-10-08T07:58:58.04", 
+            "Total": 256.03671111
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714130, 
+            "OrderType": "SELL", 
+            "Price": 4445.0, 
+            "Quantity": 0.06546577, 
+            "TimeStamp": "2017-10-08T07:58:58.04", 
+            "Total": 290.99534765
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714126, 
+            "OrderType": "SELL", 
+            "Price": 4444.72222222, 
+            "Quantity": 0.00055649, 
+            "TimeStamp": "2017-10-08T07:58:53.353", 
+            "Total": 2.47344346
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714122, 
+            "OrderType": "SELL", 
+            "Price": 4445.0, 
+            "Quantity": 0.01294409, 
+            "TimeStamp": "2017-10-08T07:58:45.18", 
+            "Total": 57.53648005
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714121, 
+            "OrderType": "SELL", 
+            "Price": 4445.0, 
+            "Quantity": 0.58208607, 
+            "TimeStamp": "2017-10-08T07:58:45.18", 
+            "Total": 2587.37258115
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714111, 
+            "OrderType": "SELL", 
+            "Price": 4447.0, 
+            "Quantity": 0.27359998, 
+            "TimeStamp": "2017-10-08T07:58:38.04", 
+            "Total": 1216.69911106
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714110, 
+            "OrderType": "SELL", 
+            "Price": 4447.0, 
+            "Quantity": 0.5131346, 
+            "TimeStamp": "2017-10-08T07:58:37.93", 
+            "Total": 2281.9095662
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714105, 
+            "OrderType": "BUY", 
+            "Price": 4447.0, 
+            "Quantity": 1.21326542, 
+            "TimeStamp": "2017-10-08T07:58:32.12", 
+            "Total": 5395.39132274
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714097, 
+            "OrderType": "SELL", 
+            "Price": 4445.0, 
+            "Quantity": 0.11091246, 
+            "TimeStamp": "2017-10-08T07:58:13.337", 
+            "Total": 493.0058847
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714093, 
+            "OrderType": "BUY", 
+            "Price": 4445.0, 
+            "Quantity": 0.1325342, 
+            "TimeStamp": "2017-10-08T07:58:06.743", 
+            "Total": 589.114519
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714092, 
+            "OrderType": "BUY", 
+            "Price": 4445.0, 
+            "Quantity": 1.17446727, 
+            "TimeStamp": "2017-10-08T07:58:06.743", 
+            "Total": 5220.50701515
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714085, 
+            "OrderType": "BUY", 
+            "Price": 4445.0, 
+            "Quantity": 0.04296723, 
+            "TimeStamp": "2017-10-08T07:57:51.743", 
+            "Total": 190.98933735
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714080, 
+            "OrderType": "SELL", 
+            "Price": 4444.44444444, 
+            "Quantity": 0.2100202, 
+            "TimeStamp": "2017-10-08T07:57:46.663", 
+            "Total": 933.42311111
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714073, 
+            "OrderType": "BUY", 
+            "Price": 4445.0, 
+            "Quantity": 0.0505623, 
+            "TimeStamp": "2017-10-08T07:57:38.54", 
+            "Total": 224.7494235
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714052, 
+            "OrderType": "BUY", 
+            "Price": 4445.0, 
+            "Quantity": 0.04129029, 
+            "TimeStamp": "2017-10-08T07:57:25.397", 
+            "Total": 183.53533905
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714048, 
+            "OrderType": "BUY", 
+            "Price": 4445.0, 
+            "Quantity": 0.01762813, 
+            "TimeStamp": "2017-10-08T07:57:24.413", 
+            "Total": 78.35703785
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714045, 
+            "OrderType": "SELL", 
+            "Price": 4444.44444444, 
+            "Quantity": 0.13095746, 
+            "TimeStamp": "2017-10-08T07:57:24.147", 
+            "Total": 582.03315555
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714038, 
+            "OrderType": "BUY", 
+            "Price": 4445.0, 
+            "Quantity": 0.15387901, 
+            "TimeStamp": "2017-10-08T07:57:17.13", 
+            "Total": 683.99219945
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714036, 
+            "OrderType": "SELL", 
+            "Price": 4445.0, 
+            "Quantity": 1.21e-06, 
+            "TimeStamp": "2017-10-08T07:57:16.71", 
+            "Total": 0.00537845
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714035, 
+            "OrderType": "SELL", 
+            "Price": 4445.0, 
+            "Quantity": 0.43158193, 
+            "TimeStamp": "2017-10-08T07:57:16.71", 
+            "Total": 1918.38167885
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714034, 
+            "OrderType": "SELL", 
+            "Price": 4445.5, 
+            "Quantity": 0.00111558, 
+            "TimeStamp": "2017-10-08T07:57:16.71", 
+            "Total": 4.95931089
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714033, 
+            "OrderType": "SELL", 
+            "Price": 4447.0, 
+            "Quantity": 0.02032321, 
+            "TimeStamp": "2017-10-08T07:57:16.71", 
+            "Total": 90.37731487
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714032, 
+            "OrderType": "SELL", 
+            "Price": 4447.0, 
+            "Quantity": 0.06618384, 
+            "TimeStamp": "2017-10-08T07:57:16.71", 
+            "Total": 294.31953648
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714014, 
+            "OrderType": "SELL", 
+            "Price": 4447.0, 
+            "Quantity": 0.05079289, 
+            "TimeStamp": "2017-10-08T07:57:07.193", 
+            "Total": 225.87598183
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714011, 
+            "OrderType": "SELL", 
+            "Price": 4447.0, 
+            "Quantity": 1.71e-06, 
+            "TimeStamp": "2017-10-08T07:57:03.257", 
+            "Total": 0.00760437
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18714007, 
+            "OrderType": "BUY", 
+            "Price": 4446.0, 
+            "Quantity": 0.18302156, 
+            "TimeStamp": "2017-10-08T07:56:59.037", 
+            "Total": 813.71385576
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18714002, 
+            "OrderType": "BUY", 
+            "Price": 4446.0, 
+            "Quantity": 0.03, 
+            "TimeStamp": "2017-10-08T07:56:57.71", 
+            "Total": 133.38
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18713987, 
+            "OrderType": "SELL", 
+            "Price": 4446.0, 
+            "Quantity": 1.41207459, 
+            "TimeStamp": "2017-10-08T07:56:51.68", 
+            "Total": 6278.08362714
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18713986, 
+            "OrderType": "SELL", 
+            "Price": 4447.0, 
+            "Quantity": 0.37490385, 
+            "TimeStamp": "2017-10-08T07:56:51.68", 
+            "Total": 1667.19742095
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18713977, 
+            "OrderType": "BUY", 
+            "Price": 4450.0, 
+            "Quantity": 0.47, 
+            "TimeStamp": "2017-10-08T07:56:46.333", 
+            "Total": 2091.5
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18713936, 
+            "OrderType": "BUY", 
+            "Price": 4450.0, 
+            "Quantity": 0.12779492, 
+            "TimeStamp": "2017-10-08T07:56:20.037", 
+            "Total": 568.687394
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18713935, 
+            "OrderType": "BUY", 
+            "Price": 4447.0, 
+            "Quantity": 0.00020508, 
+            "TimeStamp": "2017-10-08T07:56:20.037", 
+            "Total": 0.91199076
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18713929, 
+            "OrderType": "SELL", 
+            "Price": 4446.0, 
+            "Quantity": 0.18087413, 
+            "TimeStamp": "2017-10-08T07:56:14.067", 
+            "Total": 804.16638198
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18713919, 
+            "OrderType": "BUY", 
+            "Price": 4447.0, 
+            "Quantity": 0.00019585, 
+            "TimeStamp": "2017-10-08T07:56:06.6", 
+            "Total": 0.87094495
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18713914, 
+            "OrderType": "BUY", 
+            "Price": 4447.0, 
+            "Quantity": 0.06345021, 
+            "TimeStamp": "2017-10-08T07:56:02.567", 
+            "Total": 282.16308387
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18713911, 
+            "OrderType": "BUY", 
+            "Price": 4447.0, 
+            "Quantity": 0.05146473, 
+            "TimeStamp": "2017-10-08T07:55:53.16", 
+            "Total": 228.86365431
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18713903, 
+            "OrderType": "BUY", 
+            "Price": 4447.0, 
+            "Quantity": 0.01603411, 
+            "TimeStamp": "2017-10-08T07:55:42.113", 
+            "Total": 71.30368717
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18713898, 
+            "OrderType": "SELL", 
+            "Price": 4447.0, 
+            "Quantity": 0.38, 
+            "TimeStamp": "2017-10-08T07:55:26.927", 
+            "Total": 1689.86
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18713897, 
+            "OrderType": "SELL", 
+            "Price": 4447.0, 
+            "Quantity": 0.0162307, 
+            "TimeStamp": "2017-10-08T07:55:26.927", 
+            "Total": 72.1779229
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18713884, 
+            "OrderType": "BUY", 
+            "Price": 4450.0, 
+            "Quantity": 0.024, 
+            "TimeStamp": "2017-10-08T07:54:46.313", 
+            "Total": 106.8
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18713874, 
+            "OrderType": "SELL", 
+            "Price": 4447.0, 
+            "Quantity": 0.02041736, 
+            "TimeStamp": "2017-10-08T07:54:23.597", 
+            "Total": 90.79599992
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18713869, 
+            "OrderType": "BUY", 
+            "Price": 4450.0, 
+            "Quantity": 0.32777988, 
+            "TimeStamp": "2017-10-08T07:54:14.063", 
+            "Total": 1458.620466
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18713831, 
+            "OrderType": "SELL", 
+            "Price": 4450.0, 
+            "Quantity": 0.03607998, 
+            "TimeStamp": "2017-10-08T07:53:35.343", 
+            "Total": 160.555911
+        }, 
+        {
+            "FillType": "PARTIAL_FILL", 
+            "Id": 18713815, 
+            "OrderType": "BUY", 
+            "Price": 4450.0, 
+            "Quantity": 0.00202676, 
+            "TimeStamp": "2017-10-08T07:53:25.327", 
+            "Total": 9.019082
+        }, 
+        {
+            "FillType": "FILL", 
+            "Id": 18713803, 
+            "OrderType": "BUY", 
+            "Price": 4450.0, 
+            "Quantity": 0.02337341, 
+            "TimeStamp": "2017-10-08T07:53:18.593", 
+            "Total": 104.0116745
+        }
+    ], 
+    "success": true
+}
