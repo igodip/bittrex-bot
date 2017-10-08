@@ -11,11 +11,11 @@ secret = "fe11c3a0a7d14020bb78554ceb67de76"
 
 bittrex = Bittrex(key,secret)
 
-threshold_activ = 0.7 # Number between -1 and 1
+threshold_activ = 0.6 # Number between -1 and 1
 threshold_off   = -0.2 # Number between -1 and 1
 
-btc_vault = 1.0 # Btc vault
-usdt_vault = 0 # Usd tether vault
+btc_vault = 0.0 # Btc vault
+usdt_vault = 10000 # Usd tether vault
 
 sell_pos = 0
 buy_pos = 0
