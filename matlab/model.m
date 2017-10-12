@@ -53,14 +53,13 @@ for i = threshold_up
     
     for j = threshold_down
         
-        if j > i
-            temp = [temp 0];
-            continue
-        end
-        
         balance_usd = 10000;
         balance_coin = 0;
         
+        if j > i
+            temp = [temp balance_usd];
+            continue
+        end    
         
         
         for k = 1:rows
@@ -108,7 +107,7 @@ end
 %Plot the contour lines and vectors in the same figure.
 
 figure
-contour(x,y,result)
+contour(threshold_up,threshold_down,result)
 hold on
-quiver(x,y,px,py)
+quiver(threshold_up,threshold_down,px,py)
 hold off
