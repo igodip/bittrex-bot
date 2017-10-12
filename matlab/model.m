@@ -108,7 +108,7 @@ end
 %Plot the contour lines and vectors in the same figure.
 
 figure
-contour(x,y,z)
+contour(x,y,result)
 hold on
 quiver(x,y,px,py)
 hold off
