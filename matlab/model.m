@@ -99,3 +99,16 @@ for i = threshold_up
     result = [result; temp];
     
 end
+
+
+%% Plotting gradient for optimization
+
+[px,py] = gradient(result);
+
+%Plot the contour lines and vectors in the same figure.
+
+figure
+contour(x,y,z)
+hold on
+quiver(x,y,px,py)
+hold off
