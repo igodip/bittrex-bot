@@ -4,12 +4,11 @@ import time
 from datetime import datetime
 
 import requests.packages.urllib3
+import sqlite3
 
 requests.packages.urllib3.disable_warnings()
 
-import sqlite3
-
-conn = sqlite3.connect('bitcoin.db')
+conn = sqlite3.connect("bitcoin.db", check_same_thread = False)
 c = conn.cursor()
 
 c.execute('''CREATE TABLE IF NOT EXISTS history
@@ -86,5 +85,9 @@ while True:
     print("")
     
     c.execute("INSERT INTO history (time,bid,ask,bought,sold,buys,sells) VALUES (%u, %f, %f, %f, %f, %d, %d)" % (time.time(),latest_price_bid,latest_price_ask,buys_size,sells_size,buys,sells ))
+    conn.commit()
 
     time.sleep(30)
+
+conn.close()
+
