@@ -40,8 +40,8 @@ plot(x,rsi);
 
 % Algorithm parameter
 
-threshold_up = linspace(-1,1,100);
-threshold_down = linspace(-1,1,100);
+threshold_up = linspace(-1,1,50);
+threshold_down = linspace(-1,1,50);
 
 result = [];
 
@@ -73,10 +73,10 @@ for i = threshold_up
             ratio = ((bought - sold)/(bought+sold));
             
             if ratio > i
-                balance_coin = balance_coin + balance_usd/ask;
+                balance_coin = balance_coin + (1- 0.0025)*balance_usd/ask;
                 balance_usd = 0;
             elseif ratio < j
-                balance_usd = balance_usd + balance_coin*bid;
+                balance_usd = balance_usd + (1- 0.0025)*balance_coin*bid ;
                 balance_coin = 0;
             end
             
@@ -84,7 +84,7 @@ for i = threshold_up
         
         balance_usd = balance_usd + balance_coin*bid;
         
-        if balance_usd > max
+        if balance_usd > max || balance_usd == max
             max = balance_usd
             disp(i);
             disp(j);
