@@ -8,9 +8,12 @@ import requests.packages.urllib3
 
 from account import key, secret, currencies
 from market_manager import markets
+from model.currency import Currency
+from model.market import Market
 from worker.collector import Collector
 
 # Really annoy warning, this library is deprecated need to switch
+from worker.general_collector import GeneralCollector
 
 requests.packages.urllib3.disable_warnings()
 
@@ -27,14 +30,31 @@ collectors = []
 
 # Enable logging by module / class
 
-logging.basicConfig(filename="example.log")
-Collector.logger.setLevel(logging.DEBUG)
+logging.basicConfig()
+
+Market.logger.setLevel(logging.DEBUG)
 
 
 # Main function
 
 def main():
     bittrex = Bittrex(key, secret)
+
+    # Loading all the currencies
+    msg = bittrex.get_currencies()
+
+    if msg["success"]:
+
+        for i in msg["result"]:
+            currencies[i["Currency"]] = Currency([i["Currency"]])
+
+    # Getting all the markets
+    msg = bittrex.get_markets()
+
+    if msg["success"]:
+
+        for i in msg["result"]:
+            markets[i["MarketName"]] = Market(i["MarketName"], i["MarketCurrency"], i["BaseCurrency"])
 
     # Get all balances
     msg = bittrex.get_balances()
@@ -49,19 +69,12 @@ def main():
 
         print("Imported balances!")
 
-    #msg = bittrex.get_open_orders()
-    #print(msg)
+    c = GeneralCollector(bittrex, i)
 
-    for (k,i) in markets.iteritems():
-        c = Collector(bittrex, i)
+    p = Process(target=work, args=(c,))
+    p.start()
 
-        freeze_support()
-        p = Process(target=work, args=(c,))
-        p.start()
-
-        collectors.append((c, p))
-
-    print("Started collectors on markets!")
+    print("Started collector on markets!")
 
 
 if __name__ == "__main__":

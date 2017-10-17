@@ -24,13 +24,14 @@ class Market(object):
 
         pass
 
-    def update_candles(self, bid, ask, last):
+    def update_price(self, last):
         # Update all the candles
         # What the fuck can we do with bid and ask?
 
-        Market.logger.info("Updating candles")
+        Market.logger.debug("Updating candles")
+        print "%10s %20f" % (self.name, last)
 
         for i in self._temporaryCandles.iterkeys():
             # if the candle is ready, store this one and create a new one
             # if
-            Market.logger.info(i)
+            Market.logger.debug(i)
