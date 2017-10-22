@@ -1,5 +1,6 @@
 import logging
 
+from model.candle import Candle
 from model.currency import Currency
 from model.market_history import MarketHistory
 from model.order_book import OrderBook
@@ -21,6 +22,13 @@ class Market(object):
 
         self.market_history = MarketHistory()
         self.order_book = OrderBook()
+
+        self._candles = {}
+        self._temporaryCandles = {}
+
+        for i in Market.intervals:
+            self._candles[i] = []
+            self._temporaryCandles[i] = Candle()
 
         pass
 
