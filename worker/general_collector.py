@@ -28,13 +28,10 @@ class GeneralCollector(Worker):
                 for i in msg["result"]:
 
                     if not (i['MarketName'] in markets.keys()):
+                        #print i["MarketName"]
                         continue
-                try:
 
                     markets[i['MarketName']].update_price(i['Last'])
-
-                except KeyError, e:
-                    print e
 
             time.sleep(GeneralCollector.delay)
 

@@ -55,6 +55,7 @@ def main():
 
         for i in msg["result"]:
             markets[i["MarketName"]] = Market(i["MarketName"], i["MarketCurrency"], i["BaseCurrency"])
+            print i["MarketName"]
 
     # Get all balances
     msg = bittrex.get_balances()
