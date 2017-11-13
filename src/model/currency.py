@@ -1,7 +1,7 @@
 import logging
-
-from model.balance import Balance
 from model.candle import Candle
+
+from src.model.balance import Balance
 
 
 class Currency(object):

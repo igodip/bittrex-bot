@@ -1,7 +1,7 @@
-import time
 import logging
+import time
 
-from model.market import Market
+from src.model.market import Market
 from worker import Worker
 
 

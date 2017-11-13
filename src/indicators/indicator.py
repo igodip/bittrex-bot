@@ -1,4 +1,4 @@
-from model.currency import Market
+from src.model.currency import Market
 
 
 class Indicator(object):

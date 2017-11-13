@@ -1,6 +1,6 @@
 import logging
 
-from strategy.strategy import Strategy
+from src.strategy.strategy import Strategy
 
 
 class MAStrategy(Strategy):

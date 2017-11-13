@@ -1,8 +1,8 @@
 from bittrex import Bittrex
-
 from model.currency import Market
 from strategy.strategy import Strategy
-from worker.worker import Worker
+
+from src.worker.worker import Worker
 
 
 class StrategyWorker(Worker):

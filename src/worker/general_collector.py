@@ -1,8 +1,8 @@
-import time
 import logging
-
-from market_manager import markets
+import time
 from model.market import Market
+
+from src.market_manager import markets
 from worker import Worker
 
 
