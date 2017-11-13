@@ -2,7 +2,7 @@ import logging
 import time
 from model.market import Market
 
-from src.market_manager import markets
+from market_manager import markets
 from worker import Worker
 
 

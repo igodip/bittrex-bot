@@ -1,10 +1,10 @@
 import logging
 import time
+
 from model.candle import Candle
 from model.currency import Currency
 from model.order_book import OrderBook
-
-from src.model.market_history import MarketHistory
+from model.market_history import MarketHistory
 
 
 class Market(object):

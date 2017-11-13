@@ -1,14 +1,14 @@
 import logging
 import time
 
-from src.model.market import Market
+from model.market import Market
 
 
 class Observer(object):
     logger = logging.getLogger(__name__)
 
     def __init__(self, market):
-        assert type(market), Marketal
+        assert type(market), Market
 
         self._block = False
         self.market = Market

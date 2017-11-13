@@ -1,13 +1,13 @@
-from src.model.currency import Market
+from model.market import Market
 
 
 class Strategy:
 
-    def __init__(self, currency):
+    def __init__(self, market):
 
-        assert type(currency),Market
+        assert type(market), Market
 
-        self._currency = currency
+        self._currency = market
 
         pass
 
