@@ -1,0 +1,26 @@
+version: '2.2'
+services:
+  bittrex:
+    container_name: bittrex
+    build: .
+    mem_limit: 1g
+    cpus: 2
+    cpuset: 1,2
+    restart: always
+    environment:
+      - DEBUG_LEVEL=DEBUG
+      # - USER=user0
+      # - SYMBOLS=profile0
+      # - CANDLES=all
+    ulimits:
+      nproc: 65535
+      memlock:
+        soft: -1
+        hard: -1
+      nofile:
+        soft: 65536
+        hard: 65536
+    volumes:
+      - ./src:/bittrex
+    network_mode: host
+# -------------------------------------------------------------------------------------------------------- #
