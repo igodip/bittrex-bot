@@ -70,7 +70,7 @@ def main():
 
         print("Imported balances!")
 
-    c = GeneralCollector(bittrex, i)
+    c = Collector(bittrex, i)
 
     p = Process(target=work, args=(c,))
     p.start()

@@ -10,12 +10,10 @@ class GeneralCollector(Worker):
     delay = 5
     logger = logging.getLogger(__name__)
 
-    def __init__(self, bittrex, market):
-        assert type(market), Market
+    def __init__(self, bittrex):
 
         super(GeneralCollector, self).__init__(bittrex)
 
-        self._market = market
         self._block = False
 
     def run(self):

@@ -19,8 +19,6 @@ class MA5Strategy(Strategy):
 
     def operate(self):
 
-        while True:
-
-            self._market
+            self._market.operate()
 
         pass

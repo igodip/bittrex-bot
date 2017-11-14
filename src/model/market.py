@@ -64,8 +64,8 @@ class Market(object):
                 self._temporaryCandles[i].high = last
 
             Market.logger.debug("%4d %10s %13f %13f %13f %13f %13f %d" % (i, self.name, last,
-                                                                       self._temporaryCandles[i].open,
-                                                                       self._temporaryCandles[i].high,
-                                                                       self._temporaryCandles[i].low,
-                                                                       self._temporaryCandles[i].close,
-                                                                       self._temporaryCandles[i].timestamp))
+                                                                          self._temporaryCandles[i].open,
+                                                                          self._temporaryCandles[i].high,
+                                                                          self._temporaryCandles[i].low,
+                                                                          self._temporaryCandles[i].close,
+                                                                          self._temporaryCandles[i].timestamp))
