@@ -46,7 +46,6 @@ class Market(object):
             # Market.logger.debug(i)
 
             if time.time() - self._temporaryCandles[i].timestamp > i:
-                self._temporaryCandles[i].close = last
 
                 # Push the old candle and create a new one!
                 self._candles[i].append(self._temporaryCandles[i])
@@ -63,9 +62,16 @@ class Market(object):
             if self._temporaryCandles[i].high < last or self._temporaryCandles[i].high == 0.0:
                 self._temporaryCandles[i].high = last
 
+            self._temporaryCandles[i].close = last
+
             Market.logger.debug("%4d %10s %13f %13f %13f %13f %13f %d" % (i, self.name, last,
                                                                           self._temporaryCandles[i].open,
                                                                           self._temporaryCandles[i].high,
                                                                           self._temporaryCandles[i].low,
                                                                           self._temporaryCandles[i].close,
                                                                           self._temporaryCandles[i].timestamp))
+
+    def get_candles(self, interval, num):
+
+        return self._candles[interval][-(num-1):] + [self._temporaryCandles[interval]]
+

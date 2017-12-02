@@ -7,7 +7,7 @@ class Strategy:
 
         assert type(market), Market
 
-        self._currency = market
+        self._market = market
 
         pass
 

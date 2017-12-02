@@ -1,11 +1,16 @@
+
+import logging
+from time import sleep
+
 from bittrex import Bittrex
-from model.currency import Market
 from strategy.strategy import Strategy
 
-from src.worker.worker import Worker
+from worker import Worker
 
 
 class StrategyWorker(Worker):
+    logger = logging.getLogger(__name__)
+
     def __init__(self, bittrex, strategy):
 
         assert type(strategy), Strategy
@@ -17,6 +22,9 @@ class StrategyWorker(Worker):
 
     def run(self):
 
-        self._strategy.operate()
+        while not self._block:
+            self._strategy.operate()
+            sleep(3)
 
         pass
+
